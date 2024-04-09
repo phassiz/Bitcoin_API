@@ -1,0 +1,35 @@
+#container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+#coins {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3rem;
+    border: 2px solid #fff185;
+}
+.media{
+    width: 22%;
+    padding: 0.83rem;
+}
+.media-body h5{
+    margin: 0px;
+    margin-top: 10px;
+    font-size: 23px;
+}
+.media-body p{
+    margin: 0px;
+    margin-top: 4px;
+    font-size: 25px;
+}
+#dateInfo{
+    font-size: 22px;
+}
+#Title{
+    padding-top: 2rem;
+    text-align: center;
+}
